@@ -1,7 +1,39 @@
-# imersao_dados_python-alura
+📊 Dashboard de Salários na Área de Dados
 
+Este projeto foi desenvolvido durante a Imersão de Dados com Python da Alura, com o objetivo de praticar análise de dados e visualização interativa.
 
-Link de acesso ao aplicativo no Streamlit: https://imersao-dadospython.streamlit.app/
+O resultado é um dashboard construído em Streamlit que permite explorar salários na área de dados por ano, cargo, senioridade, tipo de contrato, tamanho de empresa e país.
+
+🚀 Tecnologias utilizadas
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Streamlit
+
+Plotly Express
+
+📷 Demonstração
+
+🔗 Acesse o app online: [Dashboard no Streamlit](https://imersao-dadospython.streamlit.app/)
+
+📂 Funcionalidades
+
+Filtros interativos por ano, senioridade, contrato e tamanho de empresa
+
+Métricas principais (KPIs): salário médio, salário máximo, total de registros e cargo mais frequente
+
+Visualizações com gráficos de barras, histogramas, pizza e mapa mundial
+
+Exibição de dados detalhados em tabela interativa
+
 
 <img width="1901" height="814" alt="image" src="https://github.com/user-attachments/assets/a3013c34-f9ec-4568-a860-29bf1c3b3739" />
 <img width="1912" height="743" alt="image" src="https://github.com/user-attachments/assets/97fbdc3d-73fd-4796-abd0-313bcaa4972d" />
