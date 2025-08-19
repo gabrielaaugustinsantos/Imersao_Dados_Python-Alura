@@ -1,4 +1,4 @@
-📊 Dashboard de Salários na Área de Dados
+#📊 Dashboard de Salários na Área de Dados#
 
 Este projeto foi desenvolvido durante a Imersão de Dados com Python da Alura, com o objetivo de praticar análise de dados e visualização interativa.
 
