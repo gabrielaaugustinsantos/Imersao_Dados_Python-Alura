@@ -14,11 +14,12 @@ O resultado é um dashboard construído em Streamlit que permite explorar salár
 - Streamlit
 - Plotly
 
-📷 Demonstração
+## 📷 Demonstração
 
 🔗 Acesse o app online: [Dashboard no Streamlit](https://imersao-dadospython.streamlit.app/)
 
-📂 Funcionalidades
+
+## 📂 Funcionalidades
 
 --> Filtros interativos por ano, senioridade, contrato e tamanho de empresa
 
