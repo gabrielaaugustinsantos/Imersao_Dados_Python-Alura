@@ -1,4 +1,4 @@
-#📊 Dashboard de Salários na Área de Dados#
+#📊 Dashboard de Salários na Área de Dados
 
 Este projeto foi desenvolvido durante a Imersão de Dados com Python da Alura, com o objetivo de praticar análise de dados e visualização interativa.
 
@@ -6,19 +6,13 @@ O resultado é um dashboard construído em Streamlit que permite explorar salár
 
 🚀 Tecnologias utilizadas
 
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Streamlit
-
-Plotly Express
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
+- Plotly
 
 📷 Demonstração
 
@@ -26,13 +20,13 @@ Plotly Express
 
 📂 Funcionalidades
 
-Filtros interativos por ano, senioridade, contrato e tamanho de empresa
+--> Filtros interativos por ano, senioridade, contrato e tamanho de empresa
 
-Métricas principais (KPIs): salário médio, salário máximo, total de registros e cargo mais frequente
+--> Métricas principais (KPIs): salário médio, salário máximo, total de registros e cargo mais frequente
 
-Visualizações com gráficos de barras, histogramas, pizza e mapa mundial
+--> Visualizações com gráficos de barras, histogramas, pizza e mapa mundial
 
-Exibição de dados detalhados em tabela interativa
+--> Exibição de dados detalhados em tabela interativa
 
 
 <img width="1901" height="814" alt="image" src="https://github.com/user-attachments/assets/a3013c34-f9ec-4568-a860-29bf1c3b3739" />
