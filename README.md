@@ -29,6 +29,7 @@ O resultado é um dashboard construído em Streamlit que permite explorar salár
 
 --> Exibição de dados detalhados em tabela interativa
 
+## 
 
 <img width="1901" height="814" alt="image" src="https://github.com/user-attachments/assets/a3013c34-f9ec-4568-a860-29bf1c3b3739" />
 <img width="1912" height="743" alt="image" src="https://github.com/user-attachments/assets/97fbdc3d-73fd-4796-abd0-313bcaa4972d" />
